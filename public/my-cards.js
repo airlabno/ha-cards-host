@@ -1,0 +1,1 @@
+// Simulert innhold for my-cards.js

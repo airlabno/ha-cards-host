@@ -1,0 +1,1 @@
+// Simulert innhold for charger-card.js
