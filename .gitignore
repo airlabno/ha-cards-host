@@ -1,0 +1,31 @@
+# Node/Pages/CI temp
+node_modules/
+dist/
+.cache/
+.next/
+functions/
+
+# OS-filer
+.DS_Store
+Thumbs.db
+
+# Backup-filer
+*.bak
+*.swp
+*.tmp
+*~$
+
+# Editor-spesifikke
+.vscode/
+.idea/
+
+# Logg- og outputfiler
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# HACS/HA-relatert (hvis du utvikler fra Home Assistant)
+public/*.LICENSE*
+public/*.gz
+public/*.map
+public/*.txt
